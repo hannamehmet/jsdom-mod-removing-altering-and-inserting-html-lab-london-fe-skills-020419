@@ -7,3 +7,7 @@
 const newHeader = null;
 
 var h1 = document.createElement('h1')
+
+let newHeader = document.createElement("h1");
+newHeader.innerText = myName;
+body.appendChild(newHeader);
