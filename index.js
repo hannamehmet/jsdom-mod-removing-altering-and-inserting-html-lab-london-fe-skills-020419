@@ -8,6 +8,6 @@
 const newHeader = document.createElement('h1')
 
 newHeader; id="victory"
-insertText; 
+insertText; "(your name) is the champion!"
 document.body.appendChild(newHeader)
 
