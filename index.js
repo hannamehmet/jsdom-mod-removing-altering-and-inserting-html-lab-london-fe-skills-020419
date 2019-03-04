@@ -4,9 +4,9 @@
 
 
 /* Create your new element here and assign it to newHeader */
+
 const newHeader = document.createElement('h1')
 document.body.appendChild(newHeader)
-newHeader id =""
+newHeader id="victory"
 
-var element = document.createElement('h1')
-document.body.appendChild(element)
+
