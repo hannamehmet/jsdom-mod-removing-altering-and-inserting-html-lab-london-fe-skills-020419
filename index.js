@@ -1,5 +1,5 @@
 /* Enter the code to remove the main node element under this comment */
- body.removeChild(ul.querySelector('main'))
+ body.removeChild(body.querySelector('main'))
  
 
 
