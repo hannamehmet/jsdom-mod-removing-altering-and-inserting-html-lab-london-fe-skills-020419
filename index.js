@@ -7,3 +7,4 @@
 const newHeader = null;
 
 var element = document.createElement('h1')
+document.main.appendChild(element)
